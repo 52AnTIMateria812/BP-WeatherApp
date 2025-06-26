@@ -48,7 +48,7 @@ namespace Bp_project
                 }
                 catch { }
             }
-            return new AppSettings { ApiKey = "05f78d0167b51d4907215198462d2357", City = "Saint Petersburg" };
+            return new AppSettings { ApiKey = "", City = "Saint Petersburg" };
         }
     }
 } 
